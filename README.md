@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @kajal-610
+- 👋 Hi, I’m Kajal
 - 👀 I’m interested in ... Android development and robotics
 - 🌱 I’m currently learning ...Kotlin 
 - 💞️ I’m looking to collaborate on ... Android development
