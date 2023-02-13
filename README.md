@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Kajal
-- 👀 I’m interested in ... Android development and robotics
-- 🌱 I’m currently learning ...Kotlin 
-- 💞️ I’m looking to collaborate on ... Android development
+- 👀 I’m interested in ...backend and robotics
+- 🌱 I’m currently learning ...Ruby on Rails
+- 💞️ I’m looking to collaborate on ... Android apps and web apps
 - 📫 How to reach me ...You can reach me on LinkedIn----https://www.linkedin.com/in/kajal-narang-896703195
 
 <!---
